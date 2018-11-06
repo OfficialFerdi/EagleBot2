@@ -1,0 +1,20 @@
+{
+  "name": "eaglebot",
+  "version": "1.0.0",
+  "description": "eagle eagle eagle!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "OfficieelFerdi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "quick": "0.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
